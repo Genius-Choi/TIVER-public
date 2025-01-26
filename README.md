@@ -5,11 +5,6 @@ TIVER can identify duplicate components, and improve version identification accu
 
 Experimental results are discussed in our paper, which was published in 47th Ineternational Conference on Software Engineering (ICSE'25.)
 
-
-## Reproducing results presented in paper
-When attempting to reproduce the experimental results presented in this paper, with **[2] Examining your own repository**, please ensure to 
-**clone the repository version from (or as close as possible to) April 2022.** Repositories included in docker is already a version from April 2022.
-
 ## Running TIVER with docker
 Requirements
 - TIVER is avaliable with docker. The only requirement is having Docker installed on your system. 
@@ -67,3 +62,12 @@ prevalent version is just for visualization
 
 ## Build TIVER from source code
 Due to GitHub's file size limitations, we provide the full package of TIVER through Zenodo, while this repository only contains Python execution files and the paper. If you wish to build TIVER using source code instead of Docker, please refer to the files and description at [this link](https://zenodo.org/records/14541086).
+
+## Reproducing results presented in paper
+When attempting to reproduce the experimental results presented in this paper, with **[2] Examining your own repository**, please ensure to 
+**clone the repository version from (or as close as possible to) April 2022.** Repositories included in docker is already a version from April 2022.
+
+## About
+This repository is authored and maintained by Youngjae Choi.
+
+For reporting bugsm you can submit an issue to the [GitHub repository](https://github.com/Genius-Choi/TIVER-public) or send me an email(youngjaechoi@korea.ac.kr).
