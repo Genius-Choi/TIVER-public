@@ -1,4 +1,4 @@
-# TIVER
+# TIVER🧸
 TIVER is a tool for identifying adaptive versions of C/C++ open-source software (OSS) components. 
 
 TIVER can identify duplicate components, and improve version identification accuracy by removing noise with Code Clustering Technique. Assigned adaptive Version covers various versions that coexist in reused code regions.  
@@ -70,4 +70,4 @@ When attempting to reproduce the experimental results presented in this paper, w
 ## About
 This repository is authored and maintained by Youngjae Choi.
 
-For reporting bugsm you can submit an issue to the [GitHub repository](https://github.com/Genius-Choi/TIVER-public) or send me an email(youngjaechoi@korea.ac.kr).
+For reporting bugs, you can submit an issue to the [GitHub repository](https://github.com/Genius-Choi/TIVER-public) or send me an email(youngjaechoi@korea.ac.kr).
