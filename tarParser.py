@@ -94,10 +94,8 @@ def hashing(repoPath):
 							funcCnt += 1
 
 				except subprocess.CalledProcessError as e:
-					print("Parser Error:", e)
 					continue
 				except Exception as e:
-					print ("Subprocess failed", e)
 					continue
 
 	return resDict, fileCnt, funcCnt, lineCnt 
